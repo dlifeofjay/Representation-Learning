@@ -1,0 +1,13 @@
+TransactionAmount
+TransactionType
+Location
+MerchantID
+Channel
+CustomerAge
+CustomerOccupation
+TransactionDuration
+LoginAttempts
+AccountBalance
+TransactionDay
+TransactionMonth
+DateDifference
